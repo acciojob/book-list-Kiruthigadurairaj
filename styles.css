@@ -54,9 +54,10 @@ table {
   border-collapse: collapse;
   margin-top: 20px;
 }
-
+tbody{
+	border-top:1px solid black;
+}
 th, td {
-  border-bottom: 1px solid black;
   padding: 10px;
   text-align: center;
 }
